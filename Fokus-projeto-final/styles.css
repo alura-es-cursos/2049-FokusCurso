@@ -7,15 +7,15 @@
     --linear-botes: linear-gradient(180deg, #B872FF 0%, #144480 100%);
 }
 
-[data-contexto="foco"] {
+[data-contexto="enfoque"] {
     --main-bg-color: linear-gradient(180deg, #8B1FF8 0%, #041832 48.44%, #01080E 100%);
 }
 
-[data-contexto="descanso-curto"] {
+[data-contexto="descanso-corto"] {
     --main-bg-color: linear-gradient(180deg, #0F725C 0%, #041832 48.44%, #01080E 100%);
 }
 
-[data-contexto="descanso-longo"] {
+[data-contexto="descanso-largo"] {
     --main-bg-color: linear-gradient(180deg, #1875E9 0%, #041832 48.44%, #01080E 100%);
 }
 
@@ -32,7 +32,7 @@ html {
 
 body {
     min-height: 100vh;
-    background: url("/imagens/pattern.png");
+    background: url("/imagenes/pattern.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
